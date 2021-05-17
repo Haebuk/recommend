@@ -12,23 +12,35 @@
 
 ## Contents
 
-- [추천 시스템 이해](# 추천-시스템-이해)
+- [추천 시스템 이해](#추천-시스템-이해)
 
-  - [연관분석](# 연관분석(Association-Analysis))
-  - [Apriori](# Apriori-알고리즘)
-  - [FP-Growth](# FP-Growth-알고리즘)
+  - [연관분석](#연관분석Association-Analysis)
+  - [Apriori](#Apriori-알고리즘)
+  - [FP-Growth](#FP-Growth-알고리즘)
 
-- [컨텐츠 기반 추천](# 컨텐츠-기반-추천)
+- [컨텐츠 기반 추천](#컨텐츠-기반-추천)
 
-  - [유사도 함수](# 유사도-함수)
-  - [TF-IDF](# TF-IDF)
+  - [유사도 함수](#유사도-함수)
+  - [TF-IDF](#TFIDF)
+  - [Word2Vec](#Word2Vec)
+  - [장단점](#컨텐츠-기반-모델-장점)
 
-- [평가함수](# 평가함수)
+- [협업 필터링](#협업-필터링)
 
-  - [Accuracy](# Accuracy)
+  - [이웃 기반 방법](#Neighborhood-based-method)
+    - [KNN](#KNN)
+    - [장단점](#Neighborhood-based-method-장점)
+  - [잠재 요인 협업 필터링](#Latent-Factor-Collaborative-Filtering)
+    - [SVD](#SVD)
+    - [SGD](#SGD)
+    - [ALS](#ALS)
 
-  - [MAP](# MAP)
-  - [NCDG](# NDCG)
+- [평가함수](#평가함수)
+
+  - [Accuracy](#Accuracy)
+
+  - [MAP](#MAP)
+  - [NCDG](#NDCG)
 
   
 
