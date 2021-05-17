@@ -21,15 +21,15 @@
 - [컨텐츠 기반 추천](#컨텐츠-기반-추천)
 
   - [유사도 함수](#유사도-함수)
-  - [TF-IDF](#TFIDF)
+  - [TF-IDF](#TF-IDF)
   - [Word2Vec](#Word2Vec)
-  - [장단점](#컨텐츠-기반-모델-장점)
+  - [장단점](#컨텐츠-기반-모델---장점)
 
 - [협업 필터링](#협업-필터링)
 
   - [이웃 기반 방법](#Neighborhood-based-method)
-    - [KNN](#KNN)
-    - [장단점](#Neighborhood-based-method-장점)
+    - [KNN](#KNN(K-Nearest-Neighbours))
+    - [장단점](#Neighborhood-based-method---장점)
   - [잠재 요인 협업 필터링](#Latent-Factor-Collaborative-Filtering)
     - [SVD](#SVD)
     - [SGD](#SGD)
@@ -40,7 +40,7 @@
   - [Accuracy](#Accuracy)
 
   - [MAP](#MAP)
-  - [NCDG](#NDCG)
+  - [NDCG](#NDCG)
 
   
 
