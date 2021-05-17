@@ -28,7 +28,7 @@
 - [협업 필터링](#협업-필터링)
 
   - [이웃 기반 방법](#Neighborhood-based-method)
-    - [KNN](#KNN(K-Nearest-Neighbours))
+    - [KNN](#knn-k-nearest-neighbours)
     - [장단점](#Neighborhood-based-method---장점)
   - [잠재 요인 협업 필터링](#Latent-Factor-Collaborative-Filtering)
     - [SVD](#SVD)
@@ -274,7 +274,7 @@
 
 
 
-#### KNN(K Nearest Neighbours)
+#### KNN (K Nearest Neighbours)
 
 - 가장 근접한 K명의 neighbors를 통해 예측
 - ![image](https://user-images.githubusercontent.com/68543150/118435536-1ee09700-b71a-11eb-9eac-c37cdeec1f83.png)
